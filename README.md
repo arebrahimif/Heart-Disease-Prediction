@@ -82,17 +82,17 @@ Heart-Disease-Prediction/
 
 
 *** *** How to Run (with Poetry) *** ***
-# Clone the repository:
+### Clone the repository:
 >> git clone https://github.com/arebrahimif/Heart-Disease-Prediction
 >> cd Heart-Disease-Prediction
 
-# Install dependencies using Poetry:
+### Install dependencies using Poetry:
 >> poetry install
 
-# Activate the virtual environment:
+### Activate the virtual environment:
 >> poetry shell
 
-# Start JupyterLab:
+### Start JupyterLab:
 >> jupyter lab
 
 
