@@ -59,11 +59,7 @@ Cross-Validation (5 folds): Mean accuracy ≈ 80% (lower, but more reliable).
 
 
 * Project Structure
-
-Heart-Disease-Prediction/ │ ├── Data/                                           # dataset │   ├── heart_disease_uci.csv │   └── Data Column Descriptions.txt │ ├── notebooks/ │   ├── Heart_Disease_80%20%.ipynb                  # 80/20 split approach │   └── Heart_Disease_Cross-Validation.ipynb        # CV approach │ ├── models/                                         # saved trained models │   └── logistic_model_80%20%.pkl │ ├── README.md ├── pyproject.toml                                  # Poetry dependency file ├── poetry.lock ├── How_To_Run.txt └── .gitignore
-
-
-
+```
 Heart-Disease-Prediction/
 │
 ├── Data/                                           # dataset
@@ -82,7 +78,7 @@ Heart-Disease-Prediction/
 ├── poetry.lock
 ├── How_To_Run.txt
 └── .gitignore
-
+```
 
 
 *** *** How to Run (with Poetry) *** ***
